@@ -1,46 +1,32 @@
-Coloquem o nome do grupo e o nome de seus membros.
+###### GRUPOS DO PI ######
 
-Coloquem os nomes abaixo:
-
-Grupo AngryBirds
-jailson
-Daniele
-Cinthia
-Oscar
-
-Buga buga
-Bianca
-Tobias
-Marcos
-Tonielton
-
-Grupo 10
+ANGRYBIRDS
 Daniele Leite 
 Cinthia Inhaia 
 Jailson
 Oscar
 
-NoNaMe
+BUGA BUGA
+Bianca
+Tobias
+Marcos
+Tonielton
+
+NONAME
 Diego Ferreira
 Laura Christina
 
-4Teen
-Toni
-Tobias
-Potato Head
-Bianca
-
-===== ESFORÇADOS =====
+ESFORÇADOS
 Henrique Prieto
 Paulo
 Renato Gonçalves
 
-Grupo
+DARAGA
 Danilo Garcia
 Gabriel Lopes
 Rafael Cibim
 
-bar sem lona
+BAR SEM LONA
 Mateus Martins Ferreira
 Kevin Marcelo Belletarde
 Alexandre Kenji Shimizu	
