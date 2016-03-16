@@ -2,11 +2,11 @@ Coloquem o nome do grupo e o nome de seus membros.
 
 Coloquem os nomes abaixo:
 
-+Grupo AngryBirds
-+jailson
-+Daniele
-+Cinthia
-+Oscar
+Grupo AngryBirds
+jailson
+Daniele
+Cinthia
+Oscar
 
 Grupo sem nome
 Bianca
@@ -14,21 +14,26 @@ Tobias
 Marcos
 Tonielton
 
-+Grupo 10
+Grupo 10
 Daniele Leite 
 Cinthia Inhaia 
 Jailson
 Oscar
 
-+NoNaMe
+NoNaMe
 Diego Ferreira
 Laura Christina
 
-+4Teen
-+Toni
-+Tobias
-+Potato Head
-+Bianca
+4Teen
+Toni
+Tobias
+Potato Head
+Bianca
+
+===== ESFORÇADOS =====
+Henrique Prieto
+Paulo
+Renato Gonçalves
 
 
 
