@@ -16,7 +16,6 @@ Gabriel L. Montebeller
 Bruno Santos
 Fernando yamamoto
 David Washington 
-Henrique
 
 **Camorra**
 Bruno Chasseraux
@@ -26,7 +25,6 @@ Leandro Renan
 Roberto Rodrigues
 
 **Dead Pixel**
-Fernando Rocha
 Guilherme Garcia
 Willian
 Leonardo 
