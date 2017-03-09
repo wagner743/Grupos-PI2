@@ -1,4 +1,3 @@
-
 ###### GRUPOS DO PI ######
 
 *SN5*
@@ -22,13 +21,10 @@ maria José martins
 José Wagner
 Júlia Visolli
 
-
-
 **Nutrella**
 Matheus
 Manoel
 Paula
 Janio
-
 
 http://senaquiz.sistemasparainter.net/portal/index.php
